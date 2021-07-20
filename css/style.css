@@ -418,3 +418,24 @@ section.contact .btn-wrapper{
     text-align: center;
     margin-top: 50px;
 }
+footer{
+    background: black;
+    text-align: center;
+    padding: 5rem 0;
+}
+footer a{
+    /* text-decoration: none; */
+}
+footer .footer-logo{
+    margin-bottom: 3rem;
+    width: 180px;
+}
+.fax{
+    color: white!important;
+    cursor: pointer;
+    margin-left: 5px;
+}
+footer .copyright{
+    color: white;
+    margin-top: 30px;
+}
