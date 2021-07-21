@@ -618,6 +618,6 @@ footer .copyright{
         grid-template-columns: repeat(1, 1fr);
     }
     .open{
-        width: 300px;
+        width: 301px;
     }
 }
