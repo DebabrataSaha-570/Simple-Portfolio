@@ -10,6 +10,9 @@ body{
     font-family: 'Poppins', sans-serif;
     /* height: 1500px; */
 }
+html{
+    scroll-behavior: smooth;
+}
 .container{
     max-width: 1152px;
     padding: 0 15px;
